@@ -1,0 +1,35 @@
+/* @import"<box-icon type='solid' name='cart-download'></box-icon>" */
+.custome-header{
+    background-color: #0c1216;
+}
+.custom-nav{
+    background-color: #232f3e !important;
+
+}
+.custom-slide{
+    height: 350px;
+}
+.custom-cardimg{
+    height: 250px;
+    width: 300px;
+}
+footer{
+background-color: #0c1216;
+}
+footer h5{
+    color: white;
+}
+.flex-column li a{
+    color: white !important;
+}
+.cart{
+    height: 400px;
+}
+#cartimg{
+    height: 100px;
+    width: 200px;
+}
+.custom-cart{
+    height: 100px;
+    width: 150px;
+}
